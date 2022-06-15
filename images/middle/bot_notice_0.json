@@ -1,0 +1,52 @@
+{"frames": [
+
+{
+	"filename": "illust_g_001.png",
+	"frame": {"x":1,"y":1,"w":190,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":190,"h":100},
+	"sourceSize": {"w":190,"h":100}
+},
+{
+	"filename": "illust_g_004.png",
+	"frame": {"x":195,"y":1,"w":190,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":190,"h":100},
+	"sourceSize": {"w":190,"h":100}
+},
+{
+	"filename": "illust_g_005.png",
+	"frame": {"x":389,"y":1,"w":190,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":190,"h":100},
+	"sourceSize": {"w":190,"h":100}
+},
+{
+	"filename": "illust_g_006.png",
+	"frame": {"x":583,"y":1,"w":190,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":190,"h":100},
+	"sourceSize": {"w":190,"h":100}
+},
+{
+	"filename": "illust_g_009.png",
+	"frame": {"x":777,"y":1,"w":190,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":190,"h":100},
+	"sourceSize": {"w":190,"h":100}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "bot_notice_0.png",
+	"format": "RGBA8888",
+	"size": {"w":968,"h":102},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:8241ed9fb9c042a5c1e8d2406c8b227e:9464ed994e13d47ea7a02309545352b8:36e9c691a1d2cc0a69fd65022d3b18a5$"
+}
+}
